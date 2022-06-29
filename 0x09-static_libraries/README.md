@@ -1,1 +1,0 @@
-Readme for static libraries
